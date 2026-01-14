@@ -1,0 +1,21 @@
+{
+  "name": "html-ai-assistant",
+  "version": "1.0.0",
+  "description": "A standalone HTML-based AI assistant web application.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "assistant",
+    "html",
+    "javascript",
+    "openai"
+  ],
+  "author": "Expert Developer",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
